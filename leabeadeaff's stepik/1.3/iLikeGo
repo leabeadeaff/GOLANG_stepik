@@ -1,0 +1,8 @@
+// https://stepik.org/submissions/708597/919937277?unit=200793
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("I like Go!")
+}

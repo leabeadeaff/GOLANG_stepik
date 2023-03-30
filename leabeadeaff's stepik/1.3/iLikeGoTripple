@@ -1,0 +1,10 @@
+// https://stepik.org/submissions/708598/919939454?unit=200793
+package main
+
+import "fmt"
+
+func main() {
+	for i := 0; i < 3; i++ {
+		fmt.Println("I like Go!")
+	}
+}
